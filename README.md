@@ -31,19 +31,23 @@ npm install human-time-2026
 ## 🧠 Usage
 
 ```js
-import humanTime from "human-time-2026";
+import humanTime from 'human-time-2026';
 
-humanTime(new Date()); 
-// → "just now"
+// --- Contextual Awareness ---
+// If it's currently 10:00 AM...
+console.log(humanTime(new Date().setHours(8, 0))); 
+// Output: "this morning"
 
-humanTime("2026-01-10T10:30:00");
-// → "this morning"
+// If it's 3:00 AM...
+console.log(humanTime(new Date().setHours(2, 0))); 
+// Output: "late last night"
 
-humanTime(Date.now() - 60000);
-// → "1m ago"
+// --- Standard Relative Time ---
+console.log(humanTime(Date.now() - 5000));        // "just now"
+console.log(humanTime(Date.now() - 120000));      // "2m ago"
 
-humanTime(Date.now() + 3600000);
-// → "in 1h"
+// --- Future Dates ---
+console.log(humanTime(Date.now() + 86400000));   // "tomorrow"
 ```
 
 ---
