@@ -1,0 +1,17 @@
+{
+  "name": "human-time-2026",
+  "version": "1.0.0",
+  "description": "Ultra-light, context-aware relative time formatter for 2026 apps.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": ["time", "duration", "relative", "human", "2026", "zero-dep"],
+  "author": "Abhishek Suresh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbhishekSuresh2/human-time-2026"
+  }
+}
