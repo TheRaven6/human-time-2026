@@ -1,5 +1,14 @@
 # ⏱️ human-time-2026
 
+## 📊 Project Stats
+
+![npm](https://img.shields.io/npm/v/human-time-2026)
+![downloads](https://img.shields.io/npm/dm/human-time-2026)
+![stars](https://img.shields.io/github/stars/AbhishekSuresh2/human-time-2026)
+![issues](https://img.shields.io/github/issues/AbhishekSuresh2/human-time-2026)
+![license](https://img.shields.io/npm/l/human-time-2026)
+![views](https://visitor-badge.laobi.icu/badge?page_id=AbhishekSuresh2.human-time-2026)
+
 **Human-friendly time formatting for modern JavaScript.**  
 Turn boring timestamps into natural, readable phrases like **“just now”**, **“this morning”**, **“3d ago”**, or **“in 5m”** — instantly.
 
