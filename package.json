@@ -1,13 +1,34 @@
 {
   "name": "human-time-2026",
   "version": "1.0.0",
-  "description": "Ultra-light, context-aware relative time formatter for 2026 apps.",
+  "description": "Ultra-light, context-aware relative time formatter for 2026 apps. Zero-dep, sub-1kb, and built for performance.",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "node index.js"
   },
-  "keywords": ["time", "duration", "relative", "human", "2026", "zero-dep"],
+  "keywords": [
+    "time",
+    "relative-time",
+    "date-formatter",
+    "human-readable",
+    "zero-deps",
+    "micro-utility",
+    "2026",
+    "performance",
+    "lightweight",
+    "dx",
+    "isomorphic",
+    "serverless",
+    "pwa-friendly",
+    "edge-computing",
+    "esm",
+    "modern-js",
+    "timestamp",
+    "time-ago",
+    "intl",
+    "minimalist"
+  ],
   "author": "Abhishek Suresh",
   "license": "MIT",
   "repository": {
